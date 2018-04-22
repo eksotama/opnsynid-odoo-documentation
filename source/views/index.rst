@@ -2,7 +2,7 @@
 :banner: banners/index.jpg
 
 =====
-Index
+Views
 =====
 
 .. todo:: what's the documentation's license?
@@ -13,8 +13,8 @@ Index
 .. toctree::
     :maxdepth: 2
 
-    business-object/index
-    views/index
+    form-view
+    tree-view
 
 .. ifconfig:: todo_include_todos
 
